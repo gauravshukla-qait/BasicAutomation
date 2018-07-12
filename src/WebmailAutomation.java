@@ -10,7 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 
 
 public class WebmailAutomation {
-	static String password = "Gaurav@321#";
+	static String password = "";
 	static String username= "gauravshukla";
 
 	public static void main(String[] args) throws InterruptedException {		
